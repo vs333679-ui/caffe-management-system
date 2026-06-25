@@ -38,4 +38,6 @@ def take_order():
     print("your total bill:",total)
 show_menu()        
 take_order()
-
+print("\n❤️_THANYOU FOR VISITING OUR CAFETERIA_❤️")
+print("---VISIT AGAIN---")
+print("°☆𝙲𝚘𝚏𝚏𝚎★ ☕️✨️")
